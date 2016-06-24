@@ -1,0 +1,171 @@
+@media screen and (max-width: 480px){
+	
+	body{
+		margin: 0;
+		padding:0; 
+		overflow: scroll;
+		font-family: 'cwTeXYen', sans-serif;
+		font-size:40px;
+		background-image: url(../img/sea.jpg);
+		background-size: cover;
+		-webkit-background: cover;
+		-moz-background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+		width: 100%;
+		height: 100vh;
+		background-attachment: fixed;
+	}	
+
+	
+	#Taiwan,#logo_round,#bg{display: none;}
+
+
+	div.container{
+		position: relative;
+		margin: 0;
+	}
+
+	div.container img.sea{
+		width: 100%	!important;
+	}
+
+
+	div.container #Taiwan img.map{
+		position: absolute;
+		top:6%;
+		width: 100%;
+	}
+
+	img.pic{
+		width: 30% !important;
+		height: 10% !important;
+	}
+
+	a p img{vertical-align:middle;}
+
+	#logo_long{
+		position: absolute;
+		top: 0;
+		text-align:center;
+		width: 100%;
+	}
+
+	#KL{
+		position: absolute;
+		top: 35px;
+		text-align:center;	
+	} 
+
+	#TP{
+		position: absolute;
+		top: 145px;
+		text-align:center;	
+	}
+
+	#TY{
+		position: absolute;
+		top: 255px;
+		text-align:center;	
+	} 
+
+	#SC{
+		position: absolute;
+		top: 365px;
+		text-align:center;
+	} 
+
+
+	#ML{
+		position: absolute;
+		top: 475px;
+		text-align:center;
+	} 
+	
+	#TC{
+		position: absolute;
+		top: 585px;
+		text-align:center;
+	} 
+	
+	#CH{
+		position: absolute;
+		top: 695px;
+		text-align:center;	
+	} 
+
+	#YL{
+		position: absolute;
+		top: 805px;
+		text-align:center;	
+	} 
+
+	#CY{
+		position: absolute;
+		top: 915px;
+		text-align:center;	
+	} 
+
+	#TN{
+		position: absolute;
+		top: 1025px;
+		text-align:center;
+	} 
+
+	#KS{
+		position: absolute;
+		top: 1135px;
+		text-align:center;	
+	} 
+
+	#PT{
+		position: absolute;
+		top: 1245px;
+		text-align:center;
+	} 
+
+	#TT{
+		position: absolute;
+		top: 1355px;
+		text-align:center;	
+	} 
+
+	#PH{
+		position: absolute;
+		top: 1465px;
+		text-align:center;	
+	} 
+
+	#HL{
+		position: absolute;
+		top: 1575px;
+		text-align:center;	
+	}
+
+	#NT{
+		position: absolute;
+		top: 1685px;
+		text-align:center;	
+	}
+
+	#KM{
+		position: absolute;
+		top: 1795px;
+		text-align:center;	
+	}
+
+	#MZ{
+		position: absolute;
+		top: 1905px;
+		text-align:center;	
+	}
+
+	.s1{display: none;}
+	
+}
+
+    
+
+.backg {
+	
+}

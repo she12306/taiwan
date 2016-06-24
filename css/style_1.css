@@ -1,0 +1,230 @@
+@media screen and (min-width:481px){
+
+	body{
+		margin: 0;
+		padding:0; 
+		overflow: scroll;
+		font-family: 'cwTeXYen', sans-serif;
+		font-size:40px;
+		background-image: url(../img/sea.jpg);
+		background-size: cover;
+		-webkit-background: cover;
+		-moz-background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+		width: 100%;
+		height: 100vh;
+		background-attachment: fixed;
+	}	
+
+
+	div.container{
+		position: absolute;
+		margin: 0;
+	}
+
+
+	div.container img.map{
+		position: absolute;
+		top:6%;
+		width: 1400px;
+		height: 600px;
+	}
+
+	.pic{width: 70px;}
+
+	#bg{
+		position: relative;
+		width:1390px ;
+		height:630px ;
+	}
+
+	
+	#logo_long{display: none;}
+
+	#KL1{
+		position: absolute;
+		left: 63%;
+		top: 0;
+	}
+
+	#TP1{
+		position: absolute;
+		left: 55%;
+		top: 0%; 
+	}
+
+	#TY1{
+		position: absolute;
+		left: 54%;
+		top: 9%; 
+	}
+
+	#SC1{
+		position: absolute;
+		left: 50%;
+		top: 12%; 
+	}
+
+	#ML1{
+		position: absolute;
+		left: 52%;
+		top: 21%; 
+	}
+
+	#TC1{
+		position: absolute;
+		left: 47%;
+		top: 24%; 
+	}
+
+	#CH1{
+		position: absolute;
+		left: 44%;
+		top: 29%; 
+	}
+
+	#NT1{
+		position: absolute;
+		left: 54%;
+		top: 39%; 
+	}
+
+	#YL1{
+		position: absolute;
+		left: 44%;
+		top: 36%; 
+	}
+
+	#CY1{
+		position: absolute;
+		left: 51%;
+		top: 43%;
+	}
+
+	#TN1{
+		position: absolute;
+		left: 43%;
+		top: 52%;
+	}
+
+	#KS1{
+		position: absolute;
+		left: 49%;
+		top: 56%;
+	}
+
+	#PT1{
+		position: absolute;
+		left: 48%;
+		top: 87%;
+	}
+
+	#HL1{
+		position: absolute;
+		left: 62%;
+		top: 32%; 
+	}
+
+	#TT1{
+		position: absolute;
+		left: 57%;
+		top: 68%;
+	}
+
+	#PH1{
+		position: absolute;
+		left: 35%;
+		top: 49%;
+	}
+
+	#KM1{
+		position: absolute;
+		left: 30%;
+		top: 31%; 
+	}
+
+	#MZ1{
+		position: absolute;
+		left: 33%;
+		top: 20%; 
+	}
+
+	#KL1 a:hover img{
+		content: url(../img/keelung_word.png);
+	}
+
+	#TP1 a:hover img{
+		content: url(../img/taipei_word.png);
+	}
+
+	#TY1 a:hover img{
+		content: url(../img/taoyuan_word.png);
+	}  
+
+	#SC1 a:hover img{
+		content: url(../img/hsinchu_word.png);
+	}
+
+	#ML1 a:hover img{
+		content: url(../img/ML_word.png);
+	}
+
+	#TC1 a:hover img{
+		content: url(../img/taichung_word.png);
+	}
+
+	#CH1 a:hover img{
+		content: url(../img/changhua_word.png);
+	}
+
+	#NT1 a:hover img{
+		content: url(../img/NT_word.png);
+	}
+
+	#YL1 a:hover img{
+		content: url(../img/yunlin_word.png);
+	}
+
+	#CY1 a:hover img{
+		content: url(../img/chiayi_word.png);
+	}
+
+	#TN1 a:hover img{
+		content: url(../img/TN_word.png);
+	}
+
+	#KS1 a:hover img{
+		content: url(../img/KS_word.png);
+	}
+
+	#PT1 a:hover img{
+		content: url(../img/PT_word.png);
+	}
+
+	#HL1 a:hover img{
+		content: url(../img/HL_word.png);
+	}
+
+	#TT1 a:hover img{
+		content: url(../img/taitung_word.png);
+	}
+
+	#PH1 a:hover img{
+		content: url(../img/penghu_word.png);
+	}
+
+	#KM1 a:hover img{
+		content: url(../img/KM_word.png);
+	}
+
+	#MZ1 a:hover img{
+		content: url(../img/MZ_word.png);
+	}
+
+
+
+	a p{
+		display: none;
+	}
+}
