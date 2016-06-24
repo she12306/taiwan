@@ -41,6 +41,11 @@
 
 	
 	#logo_long{display: none;}
+	
+	#logo_round{
+		position: absolute;
+		left: 1%;
+		top: 1%;}
 
 	#KL1{
 		position: absolute;
